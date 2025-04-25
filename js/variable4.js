@@ -36,3 +36,4 @@ console.clear();//콘솔창 삭제하기
 
 console.log(num1 >= num2 || num1 < 100); //앞의 식과 뒤의식 OR
 console.log(num1 >= num2 && !(num1 < 100)); //앞의 식과 뒤의식 AND
+
