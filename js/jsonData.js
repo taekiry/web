@@ -1,0 +1,22 @@
+//jsonData.js//모카루에서 제너레이트
+
+let json = `[{"id":1,"first_name":"Kittie","last_name":"Crombleholme","email":"kcrombleholme0@nyu.edu","gender":"Female","salary":6561},
+{"id":2,"first_name":"Khalil","last_name":"Ladewig","email":"kladewig1@digg.com","gender":"Male","salary":8631},
+{"id":3,"first_name":"Babbette","last_name":"Butterfill","email":"bbutterfill2@dot.gov","gender":"Female","salary":7932},
+{"id":4,"first_name":"Cesaro","last_name":"Cracknell","email":"ccracknell3@g.co","gender":"Male","salary":6504},
+{"id":5,"first_name":"Gale","last_name":"Brambell","email":"gbrambell4@springer.com","gender":"Male","salary":7888},
+{"id":6,"first_name":"Parnell","last_name":"Vedyashkin","email":"pvedyashkin5@time.com","gender":"Male","salary":8226},
+{"id":7,"first_name":"Kayne","last_name":"Tevlin","email":"ktevlin6@macromedia.com","gender":"Male","salary":8785},
+{"id":8,"first_name":"Henderson","last_name":"Matus","email":"hmatus7@nsw.gov.au","gender":"Male","salary":5026},
+{"id":9,"first_name":"Edgar","last_name":"Corro","email":"ecorro8@list-manage.com","gender":"Male","salary":2779},
+{"id":10,"first_name":"Sherie","last_name":"Weaben","email":"sweaben9@issuu.com","gender":"Female","salary":8668},
+{"id":11,"first_name":"Rupert","last_name":"Kerfoot","email":"rkerfoota@ameblo.jp","gender":"Male","salary":2278},
+{"id":12,"first_name":"Weidar","last_name":"Godbehere","email":"wgodbehereb@slashdot.org","gender":"Polygender","salary":5085},
+{"id":13,"first_name":"Lovell","last_name":"Loy","email":"lloyc@scientificamerican.com","gender":"Polygender","salary":4277},
+{"id":14,"first_name":"Blondy","last_name":"Benard","email":"bbenardd@deliciousdays.com","gender":"Female","salary":2396},
+{"id":15,"first_name":"Gerardo","last_name":"Flahive","email":"gflahivee@facebook.com","gender":"Male","salary":8973},
+{"id":16,"first_name":"Quinton","last_name":"Glacken","email":"qglackenf@homestead.com","gender":"Male","salary":2544},
+{"id":17,"first_name":"Sheridan","last_name":"Local","email":"slocalg@cam.ac.uk","gender":"Male","salary":3359},
+{"id":18,"first_name":"Natka","last_name":"Clayton","email":"nclaytonh@dailymotion.com","gender":"Female","salary":6061},
+{"id":19,"first_name":"Ruthi","last_name":"Treadwell","email":"rtreadwelli@typepad.com","gender":"Polygender","salary":5058},
+{"id":20,"first_name":"Datha","last_name":"Sokell","email":"dsokellj@webs.com","gender":"Female","salary":4550}]`;
